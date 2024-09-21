@@ -63,6 +63,17 @@ a.linknormal:hover{
     color: var(--cor1);
 }
 
+a.github{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.github:hover{
+    color: var(--cor4);
+    text-decoration: underline;
+}
+
 header{
     background-image: linear-gradient(to bottom, var(--cor6), var(--cor9));
     min-height: 150px;
